@@ -16,7 +16,6 @@ Mình là sinh viên chuyên ngành Công nghệ thông tin tại **Đại học
 **Frontend & Web3**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/ethers.js-F16822?style=flat&logo=ethereum&logoColor=white)
 
